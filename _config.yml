@@ -1,0 +1,22 @@
+title: Dhira Dika Nabil
+subtitle: Just a single page explaining who we are
+
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer_url: "https://kiddos.robee.id"
+footer_text: "robee.id | 2021"
+
+profile-picture: sun.png
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "about"
